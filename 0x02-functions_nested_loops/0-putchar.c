@@ -12,5 +12,5 @@ for (i = 0; i < 7; i++)
 _putchar(c[i]);
 }
 _putchar('_\n');
-return (0);
+return (0)
 }
