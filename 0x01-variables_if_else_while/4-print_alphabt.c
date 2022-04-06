@@ -8,13 +8,13 @@
  */
 int main(void)
 {
-char low, e, q;
-e = 'e';
-q = 'q';
-for (low = 'a'; low <= 'z'; low++)
+char m, n, o;
+n = 'e';
+o = 'q';
+for (m = 'a'; m <= 'z'; m++)
 {
-if (low != e && low != q)
-putchar(low);
+if (m != n && m != o)
+putchar(m);
 }
 printf("\n");
 return (0);
