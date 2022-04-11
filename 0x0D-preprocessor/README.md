@@ -1,7 +1,5 @@
  C - Preprocessor
-Resources
-Read or watch:
-
+Resources:
 Understanding C program Compilation Process
 Object-like Macros
 Macro Arguments
