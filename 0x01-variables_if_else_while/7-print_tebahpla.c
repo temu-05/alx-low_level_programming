@@ -8,9 +8,10 @@
  */
 int main(void)
 {
-char low;
-for (low = 'z'; low >= 'a'; low--)
-putchar(low);
-putchar('\n');
+char m;
+for (m = 'z'; m >= 'a'; m--)
+{ putchar(m);
+ printf("\n");
+}
 return (0);
 }
